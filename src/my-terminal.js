@@ -192,6 +192,12 @@ const commands = {
         if (args.length > 0) {
             term.echo(args.join(' '));
         }
+    },
+    exit() {
+        term.echo('<white>Goodbye!</white>');
+        setTimeout(() => {
+            window.close();
+        }, 1000);
     }
 };
 

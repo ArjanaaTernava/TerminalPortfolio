@@ -18,6 +18,7 @@ Welcome to my interactive terminal-based portfolio! This project is designed to 
 - `cd [directory]`: Changes the current directory.
 - `joke`: Displays a random programming joke.
 - `credits`: Shows the libraries and APIs used in this project.
+- `exit`: Closes the window.
 - `echo [text]`: Prints the provided text.
 
 ## Directory Structure
@@ -41,4 +42,4 @@ Welcome to my interactive terminal-based portfolio! This project is designed to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArjanaaTernava/terminal-portfolio.git
+   git clone https://github.com/ArjanaaTernava/TerminalPortfolio.git
